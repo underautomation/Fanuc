@@ -273,7 +273,7 @@ Console.WriteLine($"Joint Position: J1={group.JointsPosition.J1}, J2={group.Join
 
 ### 🌐 **4. CGTP Web Server Protocol**
 
-CGTP (Controller Gateway Transfer Protocol) communicates with the robot controller's **built-in HTTP web server**. It provides a comprehensive API for program management, variable access, register operations, I/O control, and kinematics.
+CGTP communicates with the robot controller's **built-in HTTP web server**. It provides a comprehensive API for program management, variable access, register operations, I/O control, and kinematics.
 
 #### 🔹 Read & write variables
 
